@@ -1,0 +1,9 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "no-doubled-joshi": true,
+    "textlint-rule-aws-service-name": true
+  }
+}
