@@ -25,7 +25,7 @@ export const workExperience: WorkExperience[] = [
     companyName: "東京海上日動システムズ株式会社",
     position: "システムエンジニア",
     summary: {
-      description: "確定拠出年金LINE Botの開発を担当。Node.jsを用いたバックエンド開発、AWS Lambdaを用いたサーバーレスアーキテクチャの構築をスキルを習得。",
+      description: "確定拠出年金LINE Botの開発を担当。Node.jsを用いたバックエンド開発、AWS Lambdaを用いたサーバーレスアーキテクチャの構築をスキルを習得",
       begin: new Date("2016-04-01"),
       end: new Date("2020-03-31"),
     },
@@ -41,8 +41,8 @@ export const workExperience: WorkExperience[] = [
       },
       {
         title: "少量多品種保険商品の契約管理システムの開発/運用",
-        description: " ",
-        techStack: ["Java", "Spring Framework", "Vue.js"],
+        description: "",
+        techStack: ["Java", "Spring Framework"],
         begin: new Date("2016-07-01"),
         end: new Date("2017-03-31"),
         role: "メンバー",
