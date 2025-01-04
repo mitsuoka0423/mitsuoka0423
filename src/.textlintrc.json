@@ -1,9 +1,10 @@
 {
-  "plugins": {},
+  "plugins": [],
   "filters": {},
   "rules": {
     "preset-ja-technical-writing": true,
     "no-doubled-joshi": true,
-    "textlint-rule-aws-service-name": true
+    "textlint-rule-aws-service-name": true,
+    "textlint-rule-ja-space-between-half-and-full-width": true
   }
 }
